@@ -1,0 +1,1 @@
+<h1 class="m-auto">Thank you for visiting this contact page</h1>
